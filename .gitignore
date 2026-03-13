@@ -1,0 +1,21 @@
+# Rust
+/cli/target
+/cli/Cargo.lock
+**/*.rs.bk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Workflows / Services
+~/Library/Services/SetAsLiveWallpaper.workflow
+~/Library/Services/SetAsScreensaver.workflow
+
+# Backups
+*.bak
+*.old
+
+# App specific
+/vendor
+/installer
